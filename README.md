@@ -1,2 +1,9 @@
-# Volunteering-and-Activities-Certificates
-Certificates and records of volunteering, social initiatives, sports participation, and extracurricular activities.
+# Volunteering & Extracurricular Activities
+
+This repository contains certificates and records of my participation in community service, environmental initiatives, sports events, and creative design projects.
+
+## Categories
+- Blood Donation Camp
+- Cleanliness Drive
+- Awareness Rally
+- Marathon
